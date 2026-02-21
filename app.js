@@ -75,3 +75,5 @@ async function getColleges(country) {
     console.log("Error - ", error);
   }
 }
+
+
