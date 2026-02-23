@@ -2,7 +2,7 @@ let input = document.querySelector("input");
 let btn = document.querySelector("button");
 let container = document.querySelector(".results"); // cards yaha show honge
 
-let url = "/colleges?country=";
+let url = "/api/colleges?country=";
 
 let results = document.querySelector(".results");
 let topBtn = document.getElementById("topBtn");
@@ -75,6 +75,7 @@ async function getColleges(country) {
     console.log("Error - ", error);
   }
 }
+
 
 
 
