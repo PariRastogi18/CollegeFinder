@@ -63,6 +63,9 @@ OR use Live Server in VS Code.
 
 ---
 
+## Live link
+https://college-finder-9fdj.vercel.app/
+
 ## 💡 Future Improvements
 
 - Add state-wise filter
